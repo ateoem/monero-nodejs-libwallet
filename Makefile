@@ -1,8 +1,8 @@
 MONERO_BRANCH?="release-v0.13"
 MONERO_BUILD_TYPE?=Release
 
-BOOST_VERSION=1.66.0
-BOOST_DIRNAME=boost_1_66_0
+BOOST_VERSION=1.58.0
+BOOST_DIRNAME=boost_1_58_0
 
 PWD=${shell pwd}
 BOOST_LIBS=chrono,date_time,filesystem,program_options,regex,serialization,system,thread
